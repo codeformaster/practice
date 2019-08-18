@@ -1,4 +1,4 @@
-package io.codeformaster.practice;
+package io.codeformaster.practice.hackerrank;
 
 public class RepeatedString {
     public static void main(String args[]) {
